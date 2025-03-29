@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Cat randomizer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Nipun**
 
-This web app: **insert description**
+This web app: **displays random cats and attributes**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
